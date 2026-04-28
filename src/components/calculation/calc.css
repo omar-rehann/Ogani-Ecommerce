@@ -1,0 +1,16 @@
+.calc {
+    padding: 20px;
+    margin: 10px 10px;
+    padding-top: 120px;
+}
+
+.calc .table {
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+
+.calc .table img {
+    width: 120px;
+    border-radius: 10px;
+}

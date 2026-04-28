@@ -1,0 +1,42 @@
+.threerow {
+    padding-top: 60px;
+}
+
+.threerow .adress h3 {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.threerow .adress h3::before {
+    position: absolute;
+    content: "";
+    width: 20%;
+    height: 3px;
+    background-color: red;
+    bottom: 0px;
+}
+
+.threerow .box .content .carrd {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin: 10px 0px;
+    margin-top: 10px;
+}
+
+.threerow .box .content .carrd .image img {
+    border-radius: 10px;
+    width: 90%;
+    height: 120px;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.threerow .box .content .carrd .image img:hover {
+    transform: scale(1.1);
+}

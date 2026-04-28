@@ -1,0 +1,37 @@
+.contact {
+    padding: 10px;
+    padding-top: 120px;
+}
+
+.contact .poster {
+    background-image: url("../../img//breadcrumb.jpg");
+    background-size: cover;
+    height: 40vh;
+    position: relative;
+    border-radius: 10px;
+}
+
+.contact .poster .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.contact .boxes {
+    margin-top: 10px;
+}
+
+.contact .box {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin: 10px 0px;
+    margin-top: 10px;
+}

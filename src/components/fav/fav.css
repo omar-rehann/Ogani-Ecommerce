@@ -1,0 +1,16 @@
+.fav {
+    padding: 20px;
+    margin: 10px 10px;
+    padding-top: 90px;
+}
+
+.fav .table {
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+
+.fav .table img {
+    width: 120px;
+    border-radius: 10px;
+}

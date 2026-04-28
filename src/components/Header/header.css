@@ -1,0 +1,54 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    z-index: 1000;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.icon {
+    position: relative;
+}
+
+.icon span {
+    position: absolute;
+    top: -15px;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.icon span.frist {
+    left: -10px;
+}
+
+.icon span.second {
+    right: -16px;
+}
+
+i {
+    font-size: 20px;
+}
+
+@media (max-width:767px) {
+    .icon span.frist {
+        left: -10px;
+    }
+    .icon span.second {
+        right: -16px;
+    }
+}

@@ -1,0 +1,17 @@
+.blog {
+    padding-top: 90px;
+}
+
+.blog .continer h4 {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.blog .continer h4::before {
+    position: absolute;
+    content: "";
+    width: 10%;
+    height: 3px;
+    background-color: red;
+    bottom: -5px;
+}

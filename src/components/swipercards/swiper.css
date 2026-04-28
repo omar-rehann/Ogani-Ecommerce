@@ -1,0 +1,45 @@
+.feturedproduct {
+    padding: 10px;
+}
+
+.feturedproduct .continer {
+    text-align: center;
+}
+
+.feturedproduct .continer h4 {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.feturedproduct .continer h4::before {
+    content: "";
+    position: absolute;
+    width: 10%;
+    height: 3px;
+    background-color: red;
+    left: 50%;
+    bottom: 0px;
+    transform: translateX(-50%);
+}
+
+.feturedproduct .showproduct {
+    background-color: red;
+}
+
+.box {
+    margin: 10px 10px;
+    border-radius: 10px;
+}
+
+i.buy {
+    cursor: pointer;
+    background-color: #088178;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 10px 10px;
+}
+
+i.star {
+    color: gold;
+}
