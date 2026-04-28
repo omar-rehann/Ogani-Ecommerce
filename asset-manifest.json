@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omar-rehann/Ogani-Ecommerce/static/css/main.80579c97.css",
-    "main.js": "/omar-rehann/Ogani-Ecommerce/static/js/main.cda9d336.js",
+    "main.js": "/omar-rehann/Ogani-Ecommerce/static/js/main.98b2a92e.js",
     "static/media/grappes.jpg": "/omar-rehann/Ogani-Ecommerce/static/media/grappes.db480b8ce40fde903abe.jpg",
     "static/media/breadcrumb.jpg": "/omar-rehann/Ogani-Ecommerce/static/media/breadcrumb.8a1bc7f445f33db27bcb.jpg",
     "static/media/nacos.avif": "/omar-rehann/Ogani-Ecommerce/static/media/nacos.adae9ff7f84c67516be9.avif",
@@ -76,10 +76,10 @@
     "static/media/icecoffe.avif": "/omar-rehann/Ogani-Ecommerce/static/media/icecoffe.ff5fc82b1cfaf891a860.avif",
     "index.html": "/omar-rehann/Ogani-Ecommerce/index.html",
     "main.80579c97.css.map": "/omar-rehann/Ogani-Ecommerce/static/css/main.80579c97.css.map",
-    "main.cda9d336.js.map": "/omar-rehann/Ogani-Ecommerce/static/js/main.cda9d336.js.map"
+    "main.98b2a92e.js.map": "/omar-rehann/Ogani-Ecommerce/static/js/main.98b2a92e.js.map"
   },
   "entrypoints": [
     "static/css/main.80579c97.css",
-    "static/js/main.cda9d336.js"
+    "static/js/main.98b2a92e.js"
   ]
 }
